@@ -15,3 +15,4 @@ A simple project to experiment with creating commits, branches, merges, and othe
 
 ## Notes
 
+Testing Git DIFF

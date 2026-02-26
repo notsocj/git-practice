@@ -11,7 +11,7 @@ A simple project to experiment with creating commits, branches, merges, and othe
 1. Clone the repository.
 2. Create a new branch for your changes.
 3. Make edits and commit them.
-4. Push the branch and open a pull request if desired.
+4. Push the branch and open a pull 
 
 ## Notes
 
